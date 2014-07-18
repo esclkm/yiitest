@@ -1,0 +1,383 @@
+2014/07/11 12:53:55 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/host7485/public_html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2014/07/11 12:55:15 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/host7485/public_html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2014/07/11 12:56:30 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/host7485/public_html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2014/07/11 12:56:42 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/host7485/public_html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2014/07/11 12:58:03 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/host7485/public_html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2014/07/11 12:58:05 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/host7485/public_html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2014/07/11 12:58:07 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/host7485/public_html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2014/07/11 13:05:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'host7485_yii.tbl_user' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tbl_user`.
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 16:47:07 [error] [php] include(TblAboutController.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (/home/host7485/public_html/yii/framework/YiiBase.php:427)
+Stack trace:
+#0 /home/host7485/public_html/yii/protected/components/TblAboutW.php(24): spl_autoload_call()
+#1 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblAboutW->run()
+#2 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): SiteController->widget()
+#3 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require()
+#4 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#5 /home/host7485/public_html/yii/framework/web/CController.php(869): SiteController->renderFile()
+#6 /home/host7485/public_html/yii/framework/web/CController.php(782): SiteController->renderPartial()
+#7 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): SiteController->render()
+#8 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#9 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#10 /home/host7485/public_html/yii/framework/web/CController.php(286): SiteController->runAction()
+#11 /home/host7485/public_html/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#12 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#13 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#14 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /home/host7485/public_html/yii/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php
+in /home/host7485/public_html/yii/protected/components/TblAboutW.php (24)
+in /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php (10)
+in /home/host7485/public_html/yii/protected/controllers/SiteController.php (32)
+2014/07/18 16:49:47 [error] [php] Missing argument 1 for CController::__construct(), called in /home/host7485/public_html/yii/protected/components/TblAboutW.php on line 24 and defined (/home/host7485/public_html/yii/framework/web/CController.php:110)
+Stack trace:
+#0 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): SiteController->widget()
+#1 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require()
+#2 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#3 /home/host7485/public_html/yii/framework/web/CController.php(869): SiteController->renderFile()
+#4 /home/host7485/public_html/yii/framework/web/CController.php(782): SiteController->renderPartial()
+#5 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): SiteController->render()
+#6 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#7 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#8 /home/host7485/public_html/yii/framework/web/CController.php(286): SiteController->runAction()
+#9 /home/host7485/public_html/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#10 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#11 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#13 /home/host7485/public_html/yii/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php
+in /home/host7485/public_html/yii/protected/components/TblAboutW.php (24)
+in /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php (10)
+in /home/host7485/public_html/yii/protected/controllers/SiteController.php (32)
+2014/07/18 16:54:41 [error] [php] Missing argument 1 for CController::__construct(), called in /home/host7485/public_html/yii/protected/components/TblAboutW.php on line 24 and defined (/home/host7485/public_html/yii/framework/web/CController.php:110)
+Stack trace:
+#0 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): SiteController->widget()
+#1 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require()
+#2 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#3 /home/host7485/public_html/yii/framework/web/CController.php(869): SiteController->renderFile()
+#4 /home/host7485/public_html/yii/framework/web/CController.php(782): SiteController->renderPartial()
+#5 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): SiteController->render()
+#6 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#7 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#8 /home/host7485/public_html/yii/framework/web/CController.php(286): SiteController->runAction()
+#9 /home/host7485/public_html/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#10 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#11 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#12 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#13 /home/host7485/public_html/yii/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php
+in /home/host7485/public_html/yii/protected/components/TblAboutW.php (24)
+in /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php (10)
+in /home/host7485/public_html/yii/protected/controllers/SiteController.php (32)
+2014/07/18 18:21:23 [warning] [application] Не удалось присвоить небезопасный атрибут "about" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:21:23 [warning] [application] Не удалось присвоить небезопасный атрибут "folio" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:21:42 [warning] [application] Не удалось присвоить небезопасный атрибут "about" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:21:42 [warning] [application] Не удалось присвоить небезопасный атрибут "folio" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:21:55 [warning] [application] Не удалось присвоить небезопасный атрибут "about" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:21:55 [warning] [application] Не удалось присвоить небезопасный атрибут "folio" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:22:08 [warning] [application] Не удалось присвоить небезопасный атрибут "about" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:22:08 [warning] [application] Не удалось присвоить небезопасный атрибут "folio" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:22:25 [warning] [application] Не удалось присвоить небезопасный атрибут "about" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:22:25 [warning] [application] Не удалось присвоить небезопасный атрибут "folio" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:22:32 [warning] [application] Не удалось присвоить небезопасный атрибут "about" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 18:22:32 [warning] [application] Не удалось присвоить небезопасный атрибут "folio" класса "TblAbout".
+in /home/host7485/public_html/yii/protected/controllers/TblAboutController.php (95)
+in /home/host7485/public_html/yii/index.php (13)
+2014/07/18 19:14:12 [error] [exception.CException] exception 'CException' with message 'Контроллер TblFolioController не может найти представление "index".' in /home/host7485/public_html/yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('index', Array, true)
+#1 /home/host7485/public_html/yii/protected/controllers/TblFolioController.php(133): CController->render('index', Array)
+#2 /home/host7485/public_html/yii/protected/components/TblFolioW.php(26): TblFolioController->actionIndex()
+#3 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblFolioW->run()
+#4 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): CBaseController->widget('application.com...')
+#5 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require('/home/host7485/...')
+#6 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/host7485/...', NULL, true)
+#7 /home/host7485/public_html/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/host7485/...', NULL, true)
+#8 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#9 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): CController->render('index')
+#10 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#11 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /home/host7485/public_html/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /home/host7485/public_html/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#15 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#16 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://yii.littledev.ru/index.php?r=tblFolio/index
+---
+2014/07/18 19:15:30 [error] [exception.CException] exception 'CException' with message 'Контроллер TblFolioController не может найти представление "index".' in /home/host7485/public_html/yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('index', Array, true)
+#1 /home/host7485/public_html/yii/protected/controllers/TblFolioController.php(133): CController->render('index', Array)
+#2 /home/host7485/public_html/yii/protected/components/TblFolioW.php(26): TblFolioController->actionIndex()
+#3 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblFolioW->run()
+#4 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): CBaseController->widget('application.com...')
+#5 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require('/home/host7485/...')
+#6 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/host7485/...', NULL, true)
+#7 /home/host7485/public_html/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/host7485/...', NULL, true)
+#8 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#9 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): CController->render('index')
+#10 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#11 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /home/host7485/public_html/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /home/host7485/public_html/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#15 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#16 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://yii.littledev.ru/index.php?r=tblFolio/index
+---
+2014/07/18 19:18:02 [error] [exception.CException] exception 'CException' with message 'Контроллер TblFolioController не может найти представление "view".' in /home/host7485/public_html/yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#1 /home/host7485/public_html/yii/protected/controllers/TblFolioController.php(55): CController->render('view', Array)
+#2 /home/host7485/public_html/yii/protected/components/TblFolioW.php(26): TblFolioController->actionView(1)
+#3 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblFolioW->run()
+#4 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): CBaseController->widget('application.com...')
+#5 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require('/home/host7485/...')
+#6 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/host7485/...', NULL, true)
+#7 /home/host7485/public_html/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/host7485/...', NULL, true)
+#8 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#9 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): CController->render('index')
+#10 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#11 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /home/host7485/public_html/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /home/host7485/public_html/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#15 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#16 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://yii.littledev.ru/index.php?r=tblFolio/index
+---
+2014/07/18 19:18:40 [error] [exception.CException] exception 'CException' with message 'Контроллер TblFolioController не может найти представление "view".' in /home/host7485/public_html/yii/framework/web/CController.php:878
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#1 /home/host7485/public_html/yii/protected/controllers/TblFolioController.php(55): CController->render('view', Array)
+#2 /home/host7485/public_html/yii/protected/components/TblFolioW.php(26): TblFolioController->actionView(1)
+#3 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblFolioW->run()
+#4 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): CBaseController->widget('application.com...')
+#5 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require('/home/host7485/...')
+#6 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/host7485/...', NULL, true)
+#7 /home/host7485/public_html/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/host7485/...', NULL, true)
+#8 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#9 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): CController->render('index')
+#10 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#11 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /home/host7485/public_html/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /home/host7485/public_html/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#15 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#16 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://yii.littledev.ru/index.php?r=tblAbout/view&id=1
+---
+2014/07/18 19:19:15 [error] [php] require_once(/home/host7485/public_html/yii/protected/components/views/yii.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory (/home/host7485/public_html/yii/protected/components/views/TblFolioV.php:19)
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): TblFolioW->renderInternal()
+#1 /home/host7485/public_html/yii/framework/web/widgets/CWidget.php(244): TblFolioW->renderFile()
+#2 /home/host7485/public_html/yii/protected/components/TblFolioW.php(26): TblFolioW->render()
+#3 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblFolioW->run()
+#4 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): SiteController->widget()
+#5 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require()
+#6 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#7 /home/host7485/public_html/yii/framework/web/CController.php(869): SiteController->renderFile()
+#8 /home/host7485/public_html/yii/framework/web/CController.php(782): SiteController->renderPartial()
+#9 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): SiteController->render()
+#10 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#11 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#12 /home/host7485/public_html/yii/framework/web/CController.php(286): SiteController->runAction()
+#13 /home/host7485/public_html/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#14 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#15 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /home/host7485/public_html/yii/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php
+in /home/host7485/public_html/yii/protected/components/views/TblFolioV.php (19)
+in /home/host7485/public_html/yii/protected/components/views/TblFolioV.php (19)
+in /home/host7485/public_html/yii/protected/components/TblFolioW.php (26)
+2014/07/18 19:34:32 [error] [php] require() [<a href='function.require'>function.require</a>]: Filename cannot be empty (/home/host7485/public_html/yii/framework/web/CBaseController.php:130)
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/zii/widgets/CListView.php(291): TblFolioW->renderFile()
+#1 /home/host7485/public_html/yii/framework/zii/widgets/CBaseListView.php(167): TbListView->renderItems()
+#2 unknown(0): TbListView->renderSection()
+#3 /home/host7485/public_html/yii/framework/zii/widgets/CBaseListView.php(150): preg_replace_callback()
+#4 /home/host7485/public_html/yii/framework/zii/widgets/CBaseListView.php(135): TbListView->renderContent()
+#5 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TbListView->run()
+#6 /home/host7485/public_html/yii/protected/components/views/TblFolioV.php(5): TblFolioW->widget()
+#7 /home/host7485/public_html/yii/framework/web/CBaseController.php(130): require()
+#8 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): TblFolioW->renderInternal()
+#9 /home/host7485/public_html/yii/framework/web/widgets/CWidget.php(244): TblFolioW->renderFile()
+#10 /home/host7485/public_html/yii/protected/components/TblFolioW.php(28): TblFolioW->render()
+#11 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblFolioW->run()
+#12 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): SiteController->widget()
+#13 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require()
+#14 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#15 /home/host7485/public_html/yii/framework/web/CController.php(869): SiteController->renderFile()
+#16 /home/host7485/public_html/yii/framework/web/CController.php(782): SiteController->renderPartial()
+#17 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): SiteController->render()
+#18 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#19 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#20 /home/host7485/public_html/yii/framework/web/CController.php(286): SiteController->runAction()
+#21 /home/host7485/public_html/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#22 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#23 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#24 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#25 /home/host7485/public_html/yii/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php
+in /home/host7485/public_html/yii/protected/components/views/TblFolioV.php (5)
+in /home/host7485/public_html/yii/protected/components/TblFolioW.php (28)
+in /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php (10)
+2014/07/18 19:41:44 [error] [php] require() [<a href='function.require'>function.require</a>]: Filename cannot be empty (/home/host7485/public_html/yii/framework/web/CBaseController.php:130)
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/zii/widgets/CListView.php(291): TblFolioW->renderFile()
+#1 /home/host7485/public_html/yii/framework/zii/widgets/CBaseListView.php(167): TbListView->renderItems()
+#2 unknown(0): TbListView->renderSection()
+#3 /home/host7485/public_html/yii/framework/zii/widgets/CBaseListView.php(150): preg_replace_callback()
+#4 /home/host7485/public_html/yii/framework/zii/widgets/CBaseListView.php(135): TbListView->renderContent()
+#5 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TbListView->run()
+#6 /home/host7485/public_html/yii/protected/components/views/TblFolioV.php(5): TblFolioW->widget()
+#7 /home/host7485/public_html/yii/framework/web/CBaseController.php(130): require()
+#8 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): TblFolioW->renderInternal()
+#9 /home/host7485/public_html/yii/framework/web/widgets/CWidget.php(244): TblFolioW->renderFile()
+#10 /home/host7485/public_html/yii/protected/components/TblFolioW.php(31): TblFolioW->render()
+#11 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblFolioW->run()
+#12 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): SiteController->widget()
+#13 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require()
+#14 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#15 /home/host7485/public_html/yii/framework/web/CController.php(869): SiteController->renderFile()
+#16 /home/host7485/public_html/yii/framework/web/CController.php(782): SiteController->renderPartial()
+#17 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): SiteController->render()
+#18 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#19 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams()
+#20 /home/host7485/public_html/yii/framework/web/CController.php(286): SiteController->runAction()
+#21 /home/host7485/public_html/yii/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#22 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): SiteController->run()
+#23 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#24 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#25 /home/host7485/public_html/yii/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php
+in /home/host7485/public_html/yii/protected/components/views/TblFolioV.php (5)
+in /home/host7485/public_html/yii/protected/components/TblFolioW.php (31)
+in /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php (10)
+2014/07/18 19:45:16 [error] [exception.CException] exception 'CException' with message 'Свойство "dataProvider" не может быть пустым.' in /home/host7485/public_html/yii/framework/zii/widgets/CBaseListView.php:109
+Stack trace:
+#0 /home/host7485/public_html/yii/framework/zii/widgets/CListView.php(211): CBaseListView->init()
+#1 /home/host7485/public_html/yii/framework/web/CBaseController.php(147): CListView->init()
+#2 /home/host7485/public_html/yii/framework/web/CBaseController.php(172): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /home/host7485/public_html/yii/protected/components/views/TblFolioV.php(5): CBaseController->widget('bootstrap.widge...', Array)
+#4 /home/host7485/public_html/yii/framework/web/CBaseController.php(130): require('/home/host7485/...')
+#5 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/host7485/...', Array, false)
+#6 /home/host7485/public_html/yii/framework/web/widgets/CWidget.php(244): CBaseController->renderFile('/home/host7485/...', Array, false)
+#7 /home/host7485/public_html/yii/protected/components/TblFolioW.php(29): CWidget->render('TblFolioV', Array)
+#8 /home/host7485/public_html/yii/framework/web/CBaseController.php(173): TblFolioW->run()
+#9 /home/host7485/public_html/yii/themes/bootstrap/views/site/index.php(10): CBaseController->widget('application.com...')
+#10 /home/host7485/public_html/yii/framework/web/CBaseController.php(126): require('/home/host7485/...')
+#11 /home/host7485/public_html/yii/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/host7485/...', NULL, true)
+#12 /home/host7485/public_html/yii/framework/web/CController.php(869): CBaseController->renderFile('/home/host7485/...', NULL, true)
+#13 /home/host7485/public_html/yii/framework/web/CController.php(782): CController->renderPartial('index', NULL, true)
+#14 /home/host7485/public_html/yii/protected/controllers/SiteController.php(32): CController->render('index')
+#15 /home/host7485/public_html/yii/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#16 /home/host7485/public_html/yii/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#17 /home/host7485/public_html/yii/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#18 /home/host7485/public_html/yii/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#19 /home/host7485/public_html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#20 /home/host7485/public_html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('')
+#21 /home/host7485/public_html/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#22 /home/host7485/public_html/yii/index.php(13): CApplication->run()
+#23 {main}
+REQUEST_URI=/index.php
+HTTP_REFERER=http://yii.littledev.ru/index.php?r=TblFolio
+---
